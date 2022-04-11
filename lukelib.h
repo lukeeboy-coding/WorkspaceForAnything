@@ -4,5 +4,4 @@
 struct login {
     int email;
     float password;
-    
 }
