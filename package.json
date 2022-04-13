@@ -2,6 +2,7 @@
   "dependencies": {
     "express": "^4.17.3",
     "react": "^18.0.0",
+    "ts": "^0.0.0",
     "ts-node": "^10.7.0",
     "window": "^4.2.7"
   }
