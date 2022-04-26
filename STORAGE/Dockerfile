@@ -1,2 +1,5 @@
-FROM randomdude/gcc-cross-x86_64-elf
-RUN
+FROM ubuntu:latest AS ubuntu
+ADD ubuntu-focal-oci-amd64-root.tar.gz /
+CMD ["bash"]
+
+RUN /
