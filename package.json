@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "nest": "^0.1.6",
     "terraform": "^1.20.2",
     "ts": "^0.0.0"
   }
