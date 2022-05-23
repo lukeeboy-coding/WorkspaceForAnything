@@ -1,7 +1,25 @@
 {
   "dependencies": {
     "nest": "^0.1.6",
+    "openai": "^2.0.5",
     "terraform": "^1.20.2",
     "ts": "^0.0.0"
-  }
+  },
+  "name": "nest",
+  "version": "1.0.0",
+  "main": "Program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeeboy-coding/WorkspaceForAnything.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeeboy-coding/WorkspaceForAnything/issues"
+  },
+  "homepage": "https://github.com/lukeeboy-coding/WorkspaceForAnything#readme",
+  "description": ""
 }

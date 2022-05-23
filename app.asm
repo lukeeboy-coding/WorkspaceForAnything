@@ -1,0 +1,2 @@
+section .bss
+section .data
